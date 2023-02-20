@@ -1,0 +1,129 @@
+{
+  "radios": [
+    {
+      "id": 132,
+      "name": "Sakeenah Station",
+      "url": "https://qurango.net/radio/sakeenah"
+    },
+    {
+      "id": 117,
+      "name": "Submissive Recitation - Multiple Qare'e",
+      "url": "https://qurango.net/radio/salma"
+    },
+    {
+      "id": 118,
+      "name": "Special Recitations",
+      "url": "https://Qurango.net/radio/tarateel"
+    },
+    {
+      "id": 120,
+      "name": "General Station - Mutiple Qare'e",
+      "url": "https://Qurango.net/radio/mix"
+    },
+    {
+      "id": 128,
+      "name": "Al-Ruqyah Al-Shariah Station",
+      "url": "https://qurango.net/radio/roqiah"
+    },
+    {
+      "id": 116,
+      "name": "Surah Al-Baqarah - Radio Station - Multiple Qare'e",
+      "url": "https://qurango.net/radio/albaqarah"
+    },
+    {
+      "id": 9,
+      "name": "Idris Abkar",
+      "url": "https://Qurango.net/radio/idrees_abkr"
+    },
+    {
+      "id": 13,
+      "name": "Tawfeeq As Sayegh",
+      "url": "https://Qurango.net/radio/tawfeeq_assayegh"
+    },
+    {
+      "id": 18,
+      "name": "Saad El Ghamidi",
+      "url": "https://Qurango.net/radio/saad_alghamdi"
+    },
+    {
+      "id": 31,
+      "name": "Abdul Basit 'Abd us-Samad - Mujawwad",
+      "url": "https://Qurango.net/radio/abdulbasit_abdulsamad_mojawwad"
+    },
+    {
+      "id": 32,
+      "name": "Abdul Basit 'Abd us-Samad - Warsh",
+      "url": "https://Qurango.net/radio/abdulbasit_abdulsamad_warsh"
+    },
+    {
+      "id": 33,
+      "name": "Abdul Basit 'Abd us-Samad",
+      "url": "https://Qurango.net/radio/abdulbasit_abdulsamad"
+    },
+    {
+      "id": 40,
+      "name": "Abdur Rasheed Sufi",
+      "url": "https://Qurango.net/radio/abdulrasheed_soufi_khalaf"
+    },
+    {
+      "id": 54,
+      "name": "Nasser Al Qatami",
+      "url": "https://Qurango.net/radio/nasser_alqatami"
+    },
+    {
+      "id": 59,
+      "name": "Yasser Al-Dosari",
+      "url": "https://Qurango.net/radio/yasser_aldosari"
+    },
+    {
+      "id": 64,
+      "name": "Maher Al-Mu'aiqly",
+      "url": "https://backup.qurango.net/radio/maher"
+    },
+    {
+      "id": 70,
+      "name": "Muhammad Siddiq Al Minshawi",
+      "url": "https://Qurango.net/radio/mohammed_siddiq_alminshawi"
+    },
+    {
+      "id": 71,
+      "name": "Muhammad Siddiq Al Minshawi - Mujawwad",
+      "url": "https://Qurango.net/radio/mohammed_siddiq_alminshawi_mojawwad"
+    },
+    {
+      "id": 75,
+      "name": "Mahmoud Khalil Al-Hussary",
+      "url": "https://Qurango.net/radio/mahmoud_khalil_alhussary"
+    },
+    {
+      "id": 76,
+      "name": "Mahmoud Khalil Al-Hussary - Mujawwad",
+      "url": "https://Qurango.net/radio/mahmoud_khalil_alhussary_mojawwad"
+    },
+    {
+      "id": 77,
+      "name": "Mahmoud Khalil Al-Hussary - Warsh",
+      "url": "https://Qurango.net/radio/mahmoud_khalil_alhussary_warsh"
+    },
+    {
+      "id": 80,
+      "name": "Mishary bin Rashid Alafasy",
+      "url": "https://Qurango.net/radio/mishary_alafasi"
+    },
+    {
+      "id": 119,
+      "name": "Tafseer (Arabic only)",
+      "url": "https://qurango.net/radio/tafseer"
+    },
+    {
+      "id": 133,
+      "name": "Companions Life (Arabic only)",
+      "url": "https://qurango.net/radio/sahabah"
+    },
+    {
+      "id": 135,
+      "name": "Mukhtasar Tafeseer (Arabic only)",
+      "url": "https://qurango.net/radio/mukhtasartafsir"
+    },
+  ]
+}
